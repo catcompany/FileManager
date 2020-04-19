@@ -1,3 +1,4 @@
+![baidu](https://upload-images.jianshu.io/upload_images/165188-662e6c25683d2cdf.gif?imageMogr2/auto-orient/strip "百度logo")
 # Unrelease
 修复数据库打开失败的问题  
 新增行号显示  
